@@ -1,0 +1,7 @@
+C:\Users\annar\source\repos\LB5 IT\LB5 IT\bin\Debug\LB5 IT.exe.config
+C:\Users\annar\source\repos\LB5 IT\LB5 IT\bin\Debug\LB5 IT.exe
+C:\Users\annar\source\repos\LB5 IT\LB5 IT\bin\Debug\LB5 IT.pdb
+C:\Users\annar\source\repos\LB5 IT\LB5 IT\obj\Debug\LB5 IT.csproj.AssemblyReference.cache
+C:\Users\annar\source\repos\LB5 IT\LB5 IT\obj\Debug\LB5 IT.csproj.CoreCompileInputs.cache
+C:\Users\annar\source\repos\LB5 IT\LB5 IT\obj\Debug\LB5 IT.exe
+C:\Users\annar\source\repos\LB5 IT\LB5 IT\obj\Debug\LB5 IT.pdb
